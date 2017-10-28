@@ -1,2 +1,2 @@
-# LAB_5
-LAB5
+# JSPlatformer
+JS Platformer for DIG 3480C
